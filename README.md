@@ -9,7 +9,7 @@ I'm Sukin Shetty, an AI Builder & Educator passionate about creating innovative 
 🛠 AI Specialist: Skilled in developing AI agents, automations, and data-driven applications using Python, Streamlit, and more.
 🏆 AI Builder: I keep building AI products, built projects like VibeProto, a coding agent to help non tech people to build Webapps and create python scripts for automation. I have also built Whatsapp Personal Agent, which tracks your expenses, Books your calendar, reminds you of tasks and Can store and retreive links for you. 
 💡 Prompt Engineer & Vibe Coder: Crafting intuitive AI workflows and visually stunning interfaces.
-📍 Based in Bengaluru, India | Open to collaboration to build innovative AI solutions, COndust workshops on AI and speaking opportunities!
+📍 Based in Bengaluru, India | Open to collaboration to build innovative AI solutions, Conduct workshops on AI and speaking opportunities!
 
 
 🛠 Skills
